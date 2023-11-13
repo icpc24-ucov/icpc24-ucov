@@ -1,0 +1,2 @@
+adc0991 HEAD@{0}: clone: from https://github.com/ddaGarrido/oauth.git
+adc0991c243ae3f0e7f241e0bbad1976ffee72f4

@@ -1,0 +1,2 @@
+1297327 HEAD@{0}: clone: from https://github.com/IgorDevR/Terminal_For_Position.git
+12973276b5d37c1881d6b9c2b0e6702ed4a6bacd

@@ -1,0 +1,2 @@
+47d5e44 HEAD@{0}: clone: from https://github.com/subugoe/ocr-tools.git
+47d5e44ae36d0c470518c745963155d85c8cc657

@@ -1,0 +1,2 @@
+92ee015 HEAD@{0}: clone: from https://github.com/Killersys/AREP-Parcial1T.git
+92ee0157765e1acfd2054a7dadaca835569c933f

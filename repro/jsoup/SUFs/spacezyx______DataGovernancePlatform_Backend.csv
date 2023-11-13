@@ -1,0 +1,1 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/spacezyx/DataGovernancePlatform_Backend|/src/main/java/com/istlab/datagovernanceplatform/utils/simhashutil.java(178:21)|/src/main/java/com/istlab/datagovernanceplatform/utils/simhashutil.java(178:60)|org.jsoup.Jsoup.clean(java.lang.String,org.jsoup.safety.Safelist)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION

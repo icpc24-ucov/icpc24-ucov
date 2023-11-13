@@ -1,0 +1,2 @@
+832bf67 HEAD@{0}: clone: from https://github.com/BennettMoore/Webcheckers-School-Project.git
+832bf678c4d53cc0f7ab93ea2c016c5cb6a9c7d8

@@ -1,0 +1,2 @@
+e7e3998 HEAD@{0}: clone: from https://github.com/QuiltMC/quilt-loader-sat4j.git
+e7e39982716a3200abdfbb185cd9b4334aef74b5

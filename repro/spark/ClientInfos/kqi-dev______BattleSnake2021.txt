@@ -1,0 +1,2 @@
+36f4227 HEAD@{0}: clone: from https://github.com/kqi-dev/BattleSnake2021.git
+36f42278fcf31d7ffeed395836ee30290396d926

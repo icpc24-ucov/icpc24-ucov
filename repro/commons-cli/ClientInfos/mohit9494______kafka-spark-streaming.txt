@@ -1,0 +1,2 @@
+e1c4c68 HEAD@{0}: clone: from https://github.com/mohit9494/kafka-spark-streaming.git
+e1c4c6825a84fe32f627966b87e7b0ade19b6ed8

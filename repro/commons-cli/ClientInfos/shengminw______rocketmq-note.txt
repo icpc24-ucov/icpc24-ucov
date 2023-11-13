@@ -1,0 +1,2 @@
+0d71eac HEAD@{0}: clone: from https://github.com/shengminw/rocketmq-note.git
+0d71eac6f843ef2fd8010d1eed3d71f2b26be3c8

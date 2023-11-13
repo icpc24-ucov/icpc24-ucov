@@ -1,0 +1,2 @@
+3d55e64 HEAD@{0}: clone: from https://github.com/jie567/cs61b.git
+3d55e6479d25ae15b286c4e4e9d7eac337f3dff3

@@ -1,0 +1,2 @@
+fbe47bd HEAD@{0}: clone: from https://github.com/George-Okumu/Wildlife-Tracker.git
+fbe47bd53e373c19f9449df2a8213fb7e85b7204

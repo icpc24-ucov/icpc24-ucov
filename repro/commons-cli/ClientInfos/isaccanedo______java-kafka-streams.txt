@@ -1,0 +1,2 @@
+f942f9d HEAD@{0}: clone: from https://github.com/isaccanedo/java-kafka-streams.git
+f942f9dcf4ccb6568a8fb8b656263b5539e73bdc

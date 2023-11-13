@@ -1,0 +1,2 @@
+b4ac18a HEAD@{0}: clone: from https://github.com/xiaonuobase/Snowy-Cloud.git
+b4ac18aebf7002613ca08029caaadcd3f236cefe

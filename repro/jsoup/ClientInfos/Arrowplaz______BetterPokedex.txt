@@ -1,0 +1,2 @@
+d761a57 HEAD@{0}: clone: from https://github.com/Arrowplaz/BetterPokedex.git
+d761a57e37e90c158092acfa5f91da64df15d8d9

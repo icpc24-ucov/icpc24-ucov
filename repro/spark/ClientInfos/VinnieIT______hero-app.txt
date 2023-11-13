@@ -1,0 +1,2 @@
+bc91f95 HEAD@{0}: clone: from https://github.com/VinnieIT/hero-app.git
+bc91f95234a02f9031420a714dccc6a5d620a0fe

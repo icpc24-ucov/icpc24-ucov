@@ -1,0 +1,2 @@
+c6079c2 HEAD@{0}: clone: from https://github.com/dwu/schema-compatibility.git
+c6079c231736999040f877bb64127c2a55e12ebc

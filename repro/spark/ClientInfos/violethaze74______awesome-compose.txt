@@ -1,0 +1,2 @@
+e6b1d27 HEAD@{0}: clone: from https://github.com/violethaze74/awesome-compose.git
+e6b1d2755f2f72a363fc346e52dce10cace846c8

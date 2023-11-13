@@ -1,0 +1,2 @@
+5022871 HEAD@{0}: clone: from https://github.com/Jcro15/Arep-Parcial1.git
+50228713fdc81dd1dcacd4ff7bc2a8dd435afdc6

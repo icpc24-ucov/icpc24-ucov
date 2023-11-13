@@ -1,0 +1,2 @@
+142707b HEAD@{0}: clone: from https://github.com/hxc236/SE-practical-traing.git
+142707bd424a68b7ee504678d49ac01c805cf30d

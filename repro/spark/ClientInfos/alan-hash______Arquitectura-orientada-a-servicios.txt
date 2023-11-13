@@ -1,0 +1,2 @@
+5f5eae0 HEAD@{0}: clone: from https://github.com/alan-hash/Arquitectura-orientada-a-servicios.git
+5f5eae037fb65b0abfee844b285e860c3914ce9e

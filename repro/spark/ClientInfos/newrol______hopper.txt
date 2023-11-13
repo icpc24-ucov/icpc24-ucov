@@ -1,0 +1,2 @@
+769bf73 HEAD@{0}: clone: from https://github.com/newrol/hopper.git
+769bf73ef1c9018cccf64229cf9fb1d3f473f033

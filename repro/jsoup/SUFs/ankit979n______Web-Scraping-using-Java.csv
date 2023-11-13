@@ -1,0 +1,9 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(19:24)|/app.java(19:41)|org.jsoup.Jsoup.connect(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(19:24)|/app.java(19:47)|org.jsoup.Connection.get()|SYMBOL_KIND_METHOD|SYMBOL_USE_VIRTUAL_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(19:9)|/app.java(19:16)|org.jsoup.nodes.Document|SYMBOL_KIND_TYPE|SYMBOL_USE_TYPE_REFERENCE
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(21:29)|/app.java(21:59)|org.jsoup.nodes.Element.select(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(21:9)|/app.java(21:16)|org.jsoup.select.Elements|SYMBOL_KIND_TYPE|SYMBOL_USE_TYPE_REFERENCE
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(25:27)|/app.java(25:40)|org.jsoup.nodes.Element.select(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(25:27)|/app.java(25:47)|org.jsoup.select.Elements.text()|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(26:28)|/app.java(26:63)|org.jsoup.nodes.Element.select(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/ankit979n/Web-Scraping-using-Java|/app.java(26:28)|/app.java(26:70)|org.jsoup.select.Elements.text()|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION

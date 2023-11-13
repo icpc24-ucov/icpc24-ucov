@@ -1,0 +1,2 @@
+d19bf4d HEAD@{0}: clone: from https://github.com/AP-Kai/MyWebScanner.git
+d19bf4d79e0b2c6936009cd91131db47dca58262

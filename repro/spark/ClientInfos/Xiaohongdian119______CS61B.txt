@@ -1,0 +1,2 @@
+6a4a178 HEAD@{0}: clone: from https://github.com/Xiaohongdian119/CS61B.git
+6a4a178ba8c4e132b7cf483bff0718945bac11a2

@@ -1,0 +1,2 @@
+51e053f HEAD@{0}: clone: from https://github.com/Andriivyn/ParrallelProgrammingMPI.git
+51e053f6e4f5b64da0a15dbbf44e1a51b2da8a01

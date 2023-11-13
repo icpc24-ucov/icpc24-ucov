@@ -1,0 +1,2 @@
+ae47de6 HEAD@{0}: clone: from https://github.com/Alexandre-COURBOIS/NFS_LAGOSANTO_ALGORITHME.git
+ae47de6f1fc32663d48470761d5091a6f2f38790

@@ -1,0 +1,2 @@
+7d5d172 HEAD@{0}: clone: from https://github.com/Mighty0r0n/fastaAnalyzer.git
+7d5d172372a6d4e7a7a024feee314aa76bae2d5b

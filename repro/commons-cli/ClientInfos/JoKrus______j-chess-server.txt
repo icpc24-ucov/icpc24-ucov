@@ -1,0 +1,2 @@
+daabe00 HEAD@{0}: clone: from https://github.com/JoKrus/j-chess-server.git
+daabe00cb2fe033362d5bdda51e4824091f22594

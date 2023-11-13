@@ -1,0 +1,2 @@
+b595c1b HEAD@{0}: clone: from https://github.com/kovacshuni/koauth-samples.git
+b595c1bf56664a645303a1e6486e23313ad6e26b

@@ -1,0 +1,2 @@
+b0d61c9 HEAD@{0}: clone: from https://github.com/princeton-nlp/MultilingualAnalysis.git
+b0d61c93c0c020a698a06264897dde14c9db471c

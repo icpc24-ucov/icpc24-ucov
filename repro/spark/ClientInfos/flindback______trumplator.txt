@@ -1,0 +1,2 @@
+37753a4 HEAD@{0}: clone: from https://github.com/flindback/trumplator.git
+37753a4ad19c3aa80ec98529927cbf9565989cbd

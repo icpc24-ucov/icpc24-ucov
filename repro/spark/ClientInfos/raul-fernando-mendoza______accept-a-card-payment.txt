@@ -1,0 +1,2 @@
+ad5a54c HEAD@{0}: clone: from https://github.com/raul-fernando-mendoza/accept-a-card-payment.git
+ad5a54ce93af2c58503a92d47c1807a47f80f5c5

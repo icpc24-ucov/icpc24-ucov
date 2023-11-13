@@ -1,0 +1,2 @@
+2abce42 HEAD@{0}: clone: from https://github.com/MaxAntonioDeSouza/test-jenkins.git
+2abce4247d2ef1454f7a83a0734515300a846d04

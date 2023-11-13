@@ -1,0 +1,2 @@
+d751592 HEAD@{0}: clone: from https://github.com/AlduinLeung/cs61b-sp-18.git
+d751592f8f2e9e8b99691664a5f166b6cf864536

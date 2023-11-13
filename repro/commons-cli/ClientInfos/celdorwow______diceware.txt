@@ -1,0 +1,2 @@
+c505203 HEAD@{0}: clone: from https://github.com/celdorwow/diceware.git
+c505203faefc6353432fd1075521797c2aa1d884

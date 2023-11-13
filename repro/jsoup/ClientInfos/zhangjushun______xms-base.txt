@@ -1,0 +1,2 @@
+1f8c6bd HEAD@{0}: clone: from https://github.com/zhangjushun/xms-base.git
+1f8c6bdf94d2187a39f039b21a5d6d4cb4bb3ddb

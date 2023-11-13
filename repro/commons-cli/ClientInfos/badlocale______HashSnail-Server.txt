@@ -1,0 +1,2 @@
+2dfdd14 HEAD@{0}: clone: from https://github.com/badlocale/HashSnail-Server.git
+2dfdd148d714d7af0a9eaac793a56a88708fbd19

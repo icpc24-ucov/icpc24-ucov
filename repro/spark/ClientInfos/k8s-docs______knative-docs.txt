@@ -1,0 +1,2 @@
+5d7124f HEAD@{0}: clone: from https://github.com/k8s-docs/knative-docs.git
+5d7124f856ab6e66a523f68a0e4607532a8f805b

@@ -1,0 +1,2 @@
+4aec463 HEAD@{0}: clone: from https://github.com/dd-test5/ripme.git
+4aec4634a86cec6e75cd4fdf0658d58baef8d009

@@ -1,0 +1,2 @@
+04f8443 HEAD@{0}: clone: from https://github.com/Sergyo97/Lambda_And_Gateway_Services.git
+04f8443c9529999b4d73d72563a84fa850f79596

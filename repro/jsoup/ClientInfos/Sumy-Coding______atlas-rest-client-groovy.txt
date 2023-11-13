@@ -1,0 +1,2 @@
+e27d716 HEAD@{0}: clone: from https://github.com/Sumy-Coding/atlas-rest-client-groovy.git
+e27d71667415976fc1d9ae8ac4a059fb37e8e4ad

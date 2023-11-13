@@ -1,0 +1,2 @@
+27fb4f3 HEAD@{0}: clone: from https://github.com/svn131/ZaprosKakOtBrauzera.git
+27fb4f3c072735bce95b90dda045d938d22b26c3

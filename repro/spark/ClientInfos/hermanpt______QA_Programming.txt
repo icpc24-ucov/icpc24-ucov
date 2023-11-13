@@ -1,0 +1,2 @@
+20fa9d8 HEAD@{0}: clone: from https://github.com/hermanpt/QA_Programming.git
+20fa9d8d55e6ca55f4a7b44600baea15c59c8c97

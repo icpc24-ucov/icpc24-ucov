@@ -1,0 +1,2 @@
+335b8cf HEAD@{0}: clone: from https://github.com/dorukerenaktas/cep-intelligent-assistant.git
+335b8cf61b021566b78e512cb291dc10848ab7f4

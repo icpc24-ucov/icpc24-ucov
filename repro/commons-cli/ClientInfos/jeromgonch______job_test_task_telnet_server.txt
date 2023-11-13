@@ -1,0 +1,2 @@
+dcec0ea HEAD@{0}: clone: from https://github.com/jeromgonch/job_test_task_telnet_server.git
+dcec0ea6dabce9a02af05c09a0a96b2d2f981c8c

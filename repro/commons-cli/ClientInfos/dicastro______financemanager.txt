@@ -1,0 +1,2 @@
+89c5ea2 HEAD@{0}: clone: from https://github.com/dicastro/financemanager.git
+89c5ea269f350e80e243356f6ed16022eded70f7

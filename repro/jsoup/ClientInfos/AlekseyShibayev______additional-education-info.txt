@@ -1,0 +1,2 @@
+44de8b6 HEAD@{0}: clone: from https://github.com/AlekseyShibayev/additional-education-info.git
+44de8b60eae320151e43177f17a4bb59faff2f89

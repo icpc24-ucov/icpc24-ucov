@@ -1,0 +1,2 @@
+9f722fe HEAD@{0}: clone: from https://github.com/Orange-OpenSource/documentare-simdoc.git
+9f722fec18d576fe2e8319a059ec25bdeae92ce9

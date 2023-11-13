@@ -1,0 +1,2 @@
+285b1b4 HEAD@{0}: clone: from https://github.com/orbisgis/framework.git
+285b1b4d0d278c37a12447d60275fabb3e1bf140

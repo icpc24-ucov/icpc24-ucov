@@ -1,0 +1,2 @@
+656a336 HEAD@{0}: clone: from https://github.com/AlexandrKhalilulin/crypto.git
+656a3363e5b3d3779eb426af89812955be6a330c

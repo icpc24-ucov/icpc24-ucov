@@ -1,0 +1,2 @@
+1d1b1d3 HEAD@{0}: clone: from https://github.com/Solabaev-developer/serialRestService.git
+1d1b1d3204033e87d56e10610a4389647159b51b

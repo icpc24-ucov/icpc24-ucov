@@ -1,0 +1,2 @@
+f67ec4b HEAD@{0}: clone: from https://github.com/ZacWolf/com.zacwolf.commons.crypto.git
+f67ec4b07cc9294e8711ddc7f94c41d42456b416

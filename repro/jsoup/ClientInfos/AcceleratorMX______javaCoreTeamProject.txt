@@ -1,0 +1,2 @@
+6c39568 HEAD@{0}: clone: from https://github.com/AcceleratorMX/javaCoreTeamProject.git
+6c39568b9ad650a287893595f6c102bfb30a75fa

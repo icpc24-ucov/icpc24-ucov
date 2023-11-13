@@ -1,0 +1,2 @@
+17727d3e HEAD@{0}: clone: from https://github.com/avineshwar/tutorials.git
+17727d3eacea8d34e89be2aabf1a398b34888ce0

@@ -1,0 +1,2 @@
+767bfbd HEAD@{0}: clone: from https://github.com/ekgame/storasbot.git
+767bfbdd8bd8f25d389c58ebd8260adaca9bf734

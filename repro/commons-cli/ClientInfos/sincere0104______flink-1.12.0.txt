@@ -1,0 +1,2 @@
+5a2fdd3e HEAD@{0}: clone: from https://github.com/sincere0104/flink-1.12.0.git
+5a2fdd3e8f88cd34c744dd7d93b700e6933f399c

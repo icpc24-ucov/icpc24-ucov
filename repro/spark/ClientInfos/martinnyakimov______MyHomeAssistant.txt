@@ -1,0 +1,2 @@
+bb35c01 HEAD@{0}: clone: from https://github.com/martinnyakimov/MyHomeAssistant.git
+bb35c01415fafc4fc542b24f3ec8138025829424

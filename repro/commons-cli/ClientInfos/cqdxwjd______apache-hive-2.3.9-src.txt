@@ -1,0 +1,2 @@
+0954959 HEAD@{0}: clone: from https://github.com/cqdxwjd/apache-hive-2.3.9-src.git
+09549598ce4d4467a3862c43ac09f4caf454ba0d

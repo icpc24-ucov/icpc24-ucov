@@ -1,0 +1,2 @@
+60f4962 HEAD@{0}: clone: from https://github.com/xiaoliangliang123/minicloud-tenant.git
+60f496291ac3b0db68f2084bbc9b7eb0dc155c9b

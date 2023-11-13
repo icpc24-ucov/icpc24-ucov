@@ -1,0 +1,2 @@
+4742d9f HEAD@{0}: clone: from https://github.com/gitgoose/core-spring-demos.git
+4742d9f6bfd4fd1fa8ed7f6966fffddc81de0602

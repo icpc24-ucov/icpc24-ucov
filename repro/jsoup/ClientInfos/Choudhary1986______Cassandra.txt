@@ -1,0 +1,2 @@
+3237e7e HEAD@{0}: clone: from https://github.com/Choudhary1986/Cassandra.git
+3237e7e7a73ced406e7a3a418d783e70832c38e0

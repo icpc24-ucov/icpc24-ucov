@@ -1,0 +1,2 @@
+45af51c HEAD@{0}: clone: from https://github.com/samuelkhong/OpenStreetMaps.git
+45af51c62c371dda53aa1351472f791f6b0b9541

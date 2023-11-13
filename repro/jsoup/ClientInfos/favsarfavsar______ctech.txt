@@ -1,0 +1,2 @@
+ce2cd30 HEAD@{0}: clone: from https://github.com/favsarfavsar/ctech.git
+ce2cd30b087811f7961035416492f0d3952ea497

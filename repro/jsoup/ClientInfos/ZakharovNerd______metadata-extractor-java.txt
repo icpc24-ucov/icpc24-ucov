@@ -1,0 +1,2 @@
+6af5908 HEAD@{0}: clone: from https://github.com/ZakharovNerd/metadata-extractor-java.git
+6af5908944a6769c5a773a2bea4c081931d27478

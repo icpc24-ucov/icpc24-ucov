@@ -1,0 +1,2 @@
+58e11e2 HEAD@{0}: clone: from https://github.com/kurokawa5/subscription-use-cases.git
+58e11e2d0c176535d9d899b21b3de6f766d828c3

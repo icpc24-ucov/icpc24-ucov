@@ -1,0 +1,2 @@
+d77d59c HEAD@{0}: clone: from https://github.com/danielrincon-m/AREP_PARCIAL1.git
+d77d59cf88bca0496f828ae6500312b060be38a4

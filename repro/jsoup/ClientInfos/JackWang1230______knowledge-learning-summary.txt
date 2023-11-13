@@ -1,0 +1,2 @@
+6d0bf37 HEAD@{0}: clone: from https://github.com/JackWang1230/knowledge-learning-summary.git
+6d0bf37fb7f6c4d43e9d96f412c0eb870fbf48b1

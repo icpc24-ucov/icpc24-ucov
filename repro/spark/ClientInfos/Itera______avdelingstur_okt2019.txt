@@ -1,0 +1,2 @@
+5cafa9e HEAD@{0}: clone: from https://github.com/Itera/avdelingstur_okt2019.git
+5cafa9e2ab04527a03f5cb4c4aef570f37054498

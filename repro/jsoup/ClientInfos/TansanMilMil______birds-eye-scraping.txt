@@ -1,0 +1,2 @@
+64717cd HEAD@{0}: clone: from https://github.com/TansanMilMil/birds-eye-scraping.git
+64717cdbedc50a16ad7eec303306ec4866f4549b

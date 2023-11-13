@@ -1,0 +1,2 @@
+35d4bf8 HEAD@{0}: clone: from https://github.com/preminstrel/cs61b.git
+35d4bf883515d9763ab403b435c6fae814cd103b

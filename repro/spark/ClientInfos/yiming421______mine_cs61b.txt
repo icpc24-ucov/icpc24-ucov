@@ -1,0 +1,2 @@
+ff9a8f1 HEAD@{0}: clone: from https://github.com/yiming421/mine_cs61b.git
+ff9a8f1af4a882fec13acb63a863e6ee7884d480

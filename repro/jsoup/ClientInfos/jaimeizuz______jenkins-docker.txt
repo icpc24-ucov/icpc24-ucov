@@ -1,0 +1,2 @@
+cfd468d HEAD@{0}: clone: from https://github.com/jaimeizuz/jenkins-docker.git
+cfd468d08ec6f321879d7a57025dcf27510f285e

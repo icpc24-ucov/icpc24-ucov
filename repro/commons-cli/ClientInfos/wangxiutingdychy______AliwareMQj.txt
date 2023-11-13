@@ -1,0 +1,2 @@
+7e0a55f HEAD@{0}: clone: from https://github.com/wangxiutingdychy/AliwareMQj.git
+7e0a55f7b4b6d6b1c34c5dad21e33db3c163e095

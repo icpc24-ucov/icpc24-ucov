@@ -1,0 +1,2 @@
+0ad27c0 HEAD@{0}: clone: from https://github.com/6si/druid.git
+0ad27c06da4e0bb195a67ed623cc8fbba5967e27

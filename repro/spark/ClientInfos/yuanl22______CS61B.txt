@@ -1,0 +1,2 @@
+487a594 HEAD@{0}: clone: from https://github.com/yuanl22/CS61B.git
+487a5947770a7658d74fcc7fbee9d3a0614909c5

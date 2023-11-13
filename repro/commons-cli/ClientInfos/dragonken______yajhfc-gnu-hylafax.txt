@@ -1,0 +1,2 @@
+b61340b HEAD@{0}: clone: from https://github.com/dragonken/yajhfc-gnu-hylafax.git
+b61340b401797781173c1e10f294e127a8847978

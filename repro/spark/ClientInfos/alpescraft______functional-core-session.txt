@@ -1,0 +1,2 @@
+f225425 HEAD@{0}: clone: from https://github.com/alpescraft/functional-core-session.git
+f225425cd930437591e879372c6c481170d88584

@@ -1,0 +1,2 @@
+36527bc HEAD@{0}: clone: from https://github.com/dringdwing/ManagementProject.git
+36527bc9ec1b5fec78ddcd37ce3b7e778f958b82

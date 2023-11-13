@@ -1,0 +1,2 @@
+f59b6d9 HEAD@{0}: clone: from https://github.com/onlythenaive/javaschool-ittunes.git
+f59b6d961f20ddff937f63960b6ff75e9e67dc00

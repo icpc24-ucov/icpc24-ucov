@@ -1,0 +1,2 @@
+f2368dc HEAD@{0}: clone: from https://github.com/Aztroe/Scraper.git
+f2368dc3f52f06635d2d936676596fea531ab1fd

@@ -1,0 +1,2 @@
+2e590b3 HEAD@{0}: clone: from https://github.com/AndreiBudevich/cryptocurrencywatcher.git
+2e590b3a98586a1008964f09f94678d4498aced6

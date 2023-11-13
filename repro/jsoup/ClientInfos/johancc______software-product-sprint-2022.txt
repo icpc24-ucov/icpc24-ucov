@@ -1,0 +1,2 @@
+86c942a HEAD@{0}: clone: from https://github.com/johancc/software-product-sprint-2022.git
+86c942a72f7a8d08aefd6086a033a5738d9570c8

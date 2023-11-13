@@ -1,0 +1,2 @@
+618ae98 HEAD@{0}: clone: from https://github.com/tevin-otieno/wild-animal-tracker.git
+618ae985d873cbe16938da133af47fcc90e25e63

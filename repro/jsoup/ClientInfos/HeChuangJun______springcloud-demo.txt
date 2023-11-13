@@ -1,0 +1,2 @@
+2d5dc6a HEAD@{0}: clone: from https://github.com/HeChuangJun/springcloud-demo.git
+2d5dc6ae142007277ba7a895c05b733c13ab1fce

@@ -1,0 +1,2 @@
+c4c118f HEAD@{0}: clone: from https://github.com/TheNinjask/Project-Euler.git
+c4c118f3aa94387e6cabc13dd63b700376be4902

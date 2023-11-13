@@ -1,0 +1,2 @@
+36fa119 HEAD@{0}: clone: from https://github.com/vkalev/covcal.git
+36fa1192a90a30cb431117948f2fbb4c71c35082

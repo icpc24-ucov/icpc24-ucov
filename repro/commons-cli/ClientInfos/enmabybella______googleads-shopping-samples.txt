@@ -1,0 +1,2 @@
+6661524 HEAD@{0}: clone: from https://github.com/enmabybella/googleads-shopping-samples.git
+666152471362a7bb16e588a1f6b3283eb2fec7b0

@@ -1,0 +1,4 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/kevinbas12/test|/src/main/java/app.java(6:13)|/src/main/java/app.java(6:42)|spark.Spark.port(int)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/kevinbas12/test|/src/main/java/app.java(7:13)|/src/main/java/app.java(7:62)|spark.Spark.get(java.lang.String,spark.Route)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/kevinbas12/test|/src/main/java/app.java(7:27)|/src/main/java/app.java(7:60)|spark.Route.handle(spark.Request,spark.Response)|SYMBOL_KIND_METHOD|SYMBOL_USE_OVERRIDING
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/kevinbas12/test|/src/main/java/app.java(7:27)|/src/main/java/app.java(7:60)|spark.Route|SYMBOL_KIND_INTERFACE|SYMBOL_USE_IMPLEMENTATION

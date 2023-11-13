@@ -1,0 +1,2 @@
+eaec652 HEAD@{0}: clone: from https://github.com/alibenmessaoud/JSF-Application-that-uses-managed-bean-and-ejb.git
+eaec652b7624c35955ddecb3e35a0f0336e73279

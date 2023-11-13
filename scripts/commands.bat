@@ -1,0 +1,3 @@
+java -jar ucov.jar Spark-2.9.3.API.json Spark-2.9.3.SUM.csv Spark-2.9.3.SUF.csv Spark-2.9.3;MAIN;I:\UCov\Repro\spark\Main Spark-2.9.3;TEST;I:\UCov\Repro\spark\Tests Spark-2.9.3;SAMPLE;I:\UCov\Repro\spark\Samples
+java -jar ucov.jar JSoup-1.16.1.API.json JSoup-1.16.1.SUM.csv JSoup-1.16.1.SUF.csv JSoup-1.16.1;MAIN;I:\UCov\Repro\jsoup\Main JSoup-1.16.1;TEST;I:\UCov\Repro\jsoup\Tests JSoup-1.16.1;SAMPLE;I:\UCov\Repro\jsoup\Samples
+java -jar ucov.jar commons-cli-1.5.0.API.json commons-cli-1.5.0.SUM.csv commons-cli-1.5.0.SUF.csv commons-cli-1.5.0;MAIN;I:\UCov\Repro\commons-cli\Main commons-cli-1.5.0;TEST;I:\UCov\Repro\commons-cli\Tests commons-cli-1.5.0;SAMPLE;I:\UCov\Repro\commons-cli\Samples

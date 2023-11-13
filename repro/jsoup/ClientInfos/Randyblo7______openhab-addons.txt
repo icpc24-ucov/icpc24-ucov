@@ -1,0 +1,2 @@
+74edb537 HEAD@{0}: clone: from https://github.com/Randyblo7/openhab-addons.git
+74edb5377cfa0cfb38a5012660f9a90526278166

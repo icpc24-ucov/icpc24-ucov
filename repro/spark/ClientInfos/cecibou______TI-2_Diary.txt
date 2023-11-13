@@ -1,0 +1,2 @@
+be740b0 HEAD@{0}: clone: from https://github.com/cecibou/TI-2_Diary.git
+be740b051437d218ae687c560f781d3d5479ae9c

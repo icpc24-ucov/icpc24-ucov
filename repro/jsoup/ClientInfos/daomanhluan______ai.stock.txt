@@ -1,0 +1,2 @@
+812b9a2 HEAD@{0}: clone: from https://github.com/daomanhluan/ai.stock.git
+812b9a236e500e1be1e015be71d8bd9c27272366

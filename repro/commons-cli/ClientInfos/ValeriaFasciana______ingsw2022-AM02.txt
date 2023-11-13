@@ -1,0 +1,2 @@
+ac52712 HEAD@{0}: clone: from https://github.com/ValeriaFasciana/ingsw2022-AM02.git
+ac5271252544e5ed35af0af52bae2a87c9a40687

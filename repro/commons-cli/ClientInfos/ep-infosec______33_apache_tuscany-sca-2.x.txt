@@ -1,0 +1,2 @@
+843147b HEAD@{0}: clone: from https://github.com/ep-infosec/33_apache_tuscany-sca-2.x.git
+843147ba83a89c5e52f45e7377dbca223742ef41

@@ -1,0 +1,2 @@
+1788578 HEAD@{0}: clone: from https://github.com/PedroMathieu/ES-LETI-1Sem-2022-Grupo-11.git
+17885780d3b5b0d19c6a2e468f87bb081dc34106

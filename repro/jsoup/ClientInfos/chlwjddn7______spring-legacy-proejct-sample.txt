@@ -1,0 +1,2 @@
+067b46e HEAD@{0}: clone: from https://github.com/chlwjddn7/spring-legacy-proejct-sample.git
+067b46e603990318500e6b5d8b7afe9e80079055

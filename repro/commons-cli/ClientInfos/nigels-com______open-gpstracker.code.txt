@@ -1,0 +1,2 @@
+abc0e96 HEAD@{0}: clone: from https://github.com/nigels-com/open-gpstracker.code.git
+abc0e96d8289eac8f078b5ec606b6f9b14172ade

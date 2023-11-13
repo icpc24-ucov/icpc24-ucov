@@ -1,0 +1,2 @@
+6ef603f HEAD@{0}: clone: from https://github.com/afieldi/cloudcompute-1.git
+6ef603f1e518fd6a0f1f917935d922e278976972

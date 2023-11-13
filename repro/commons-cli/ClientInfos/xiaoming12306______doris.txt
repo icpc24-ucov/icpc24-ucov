@@ -1,0 +1,2 @@
+af20d0c5 HEAD@{0}: clone: from https://github.com/xiaoming12306/doris.git
+af20d0c52181402db4680f77fef8aa6e5fb46627

@@ -1,0 +1,1 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/alex-petkevich/joplin-forwarder-server|/src/main/java/by/homesite/joplinforwarder/util/mailutil.java(99:11)|/src/main/java/by/homesite/joplinforwarder/util/mailutil.java(99:55)|org.jsoup.Jsoup.parse(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION

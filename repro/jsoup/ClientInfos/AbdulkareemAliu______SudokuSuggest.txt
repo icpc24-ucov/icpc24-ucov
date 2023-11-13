@@ -1,0 +1,2 @@
+fd157ea HEAD@{0}: clone: from https://github.com/AbdulkareemAliu/SudokuSuggest.git
+fd157eaeb0a127ad0c34599ab82f542de01f73ae

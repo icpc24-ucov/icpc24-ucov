@@ -1,0 +1,2 @@
+1b11af1 HEAD@{0}: clone: from https://github.com/SimonHofmeister1992/HSP-Project-AlphaZero-Reversi.git
+1b11af1ca6631328121f8d29dd5298ffc21eb2ab

@@ -1,0 +1,2 @@
+5e3a571 HEAD@{0}: clone: from https://github.com/rainweb521/zookeeper_chinese.git
+5e3a571b409ca14f27a174310fb9910530105ac0

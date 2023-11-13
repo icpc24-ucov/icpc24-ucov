@@ -1,0 +1,2 @@
+a2cd7d9 HEAD@{0}: clone: from https://github.com/WinterSilence/swagger-codegen.git
+a2cd7d9f71444f0c2a14d827a5ac557e3f576bc0

@@ -1,0 +1,1 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/emaphis/JavaModules|/service-monitor/monitor.rest/src/main/java/monitor/rest/monitorserver.java(47:9)|/service-monitor/monitor.rest/src/main/java/monitor/rest/monitorserver.java(47:21)|spark.Spark.stop()|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION

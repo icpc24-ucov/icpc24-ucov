@@ -1,0 +1,2 @@
+720593c HEAD@{0}: clone: from https://github.com/zhoupan/jooq-android.git
+720593c9173f55abbf23c06b0ce7d117b75b558f

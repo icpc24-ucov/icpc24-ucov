@@ -1,0 +1,2 @@
+d25470f HEAD@{0}: clone: from https://github.com/LuKasMitK/OpenTripPlanner.git
+d25470fd325f2cc9d843412a9ce4c6b33d5a309a

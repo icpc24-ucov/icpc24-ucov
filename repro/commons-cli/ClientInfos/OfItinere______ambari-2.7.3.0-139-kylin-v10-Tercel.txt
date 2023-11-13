@@ -1,0 +1,2 @@
+aef9067e HEAD@{0}: clone: from https://github.com/OfItinere/ambari-2.7.3.0-139-kylin-v10-Tercel.git
+aef9067e0a1aead01d2b5bac1694b803bc183c8c

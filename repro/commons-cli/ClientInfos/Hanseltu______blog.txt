@@ -1,0 +1,2 @@
+8274656 HEAD@{0}: clone: from https://github.com/Hanseltu/blog.git
+8274656046ca350dcfe9227ce0c3a8f60a9c9a63

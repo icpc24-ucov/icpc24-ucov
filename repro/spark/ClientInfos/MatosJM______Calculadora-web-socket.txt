@@ -1,0 +1,2 @@
+524eff3 HEAD@{0}: clone: from https://github.com/MatosJM/Calculadora-web-socket.git
+524eff32108405d17b7b52adca6997d931d47c73

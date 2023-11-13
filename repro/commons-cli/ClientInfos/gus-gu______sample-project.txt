@@ -1,0 +1,2 @@
+8eec9dd HEAD@{0}: clone: from https://github.com/gus-gu/sample-project.git
+8eec9dd3ff5b5bcc8f0f2c720207197edbec014d

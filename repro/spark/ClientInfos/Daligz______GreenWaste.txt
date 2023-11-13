@@ -1,0 +1,2 @@
+2f9cbd5 HEAD@{0}: clone: from https://github.com/Daligz/GreenWaste.git
+2f9cbd5eab6fed1cd2e4579f6d92f1d512aafac6

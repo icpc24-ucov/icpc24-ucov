@@ -1,0 +1,2 @@
+6576236 HEAD@{0}: clone: from https://github.com/jini67/web.git
+6576236a6492b5e1f68e632639574eed2daab272

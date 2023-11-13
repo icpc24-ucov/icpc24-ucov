@@ -1,0 +1,2 @@
+abc07ee HEAD@{0}: clone: from https://github.com/HighlandProger/LivingWageBot.git
+abc07eeff209b4d90633d44d3a1645b9d601bfe8

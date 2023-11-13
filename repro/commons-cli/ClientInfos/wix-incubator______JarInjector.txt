@@ -1,0 +1,2 @@
+18e945b HEAD@{0}: clone: from https://github.com/wix-incubator/JarInjector.git
+18e945b0062640ddd5c33bbbb7302d6e97770e0f

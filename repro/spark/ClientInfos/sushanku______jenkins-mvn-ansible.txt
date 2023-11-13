@@ -1,0 +1,2 @@
+e7cc39b HEAD@{0}: clone: from https://github.com/sushanku/jenkins-mvn-ansible.git
+e7cc39b6d11acbf015ec6ae779521ab355311fe0

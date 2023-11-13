@@ -1,0 +1,2 @@
+571e0cb HEAD@{0}: clone: from https://github.com/mhtocs/search-guard.git
+571e0cb62f94affd46c9416d1dec87e9c98eb3fb

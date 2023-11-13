@@ -1,0 +1,2 @@
+10cdfb8 HEAD@{0}: clone: from https://github.com/cdrommens/comicosmos.git
+10cdfb891783750ddb8ee9eabd97a66ab42ee0ba

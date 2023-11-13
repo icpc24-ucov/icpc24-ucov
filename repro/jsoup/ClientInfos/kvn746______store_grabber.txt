@@ -1,0 +1,2 @@
+e750361 HEAD@{0}: clone: from https://github.com/kvn746/store_grabber.git
+e7503613e73ab241397129d9d067b3b84ae63f0d

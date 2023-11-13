@@ -1,0 +1,2 @@
+395e1f2 HEAD@{0}: clone: from https://github.com/windseedgee/EMAN.git
+395e1f2c8b71d5aa979a40ab2bfa4c7910ea0baa

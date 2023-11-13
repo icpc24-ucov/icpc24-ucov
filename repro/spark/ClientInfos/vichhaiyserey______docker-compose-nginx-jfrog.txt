@@ -1,0 +1,2 @@
+5f4023b HEAD@{0}: clone: from https://github.com/vichhaiyserey/docker-compose-nginx-jfrog.git
+5f4023b3d01d0c15d4ab1a3539bf6c9566bb0d23

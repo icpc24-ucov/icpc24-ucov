@@ -1,0 +1,2 @@
+70f7f09 HEAD@{0}: clone: from https://github.com/DeveloperOwala/heroSquard.git
+70f7f09321fd1bcaeea1b19bb9e3487230ebeaa0

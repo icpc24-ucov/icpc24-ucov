@@ -1,0 +1,2 @@
+f222866 HEAD@{0}: clone: from https://github.com/lykkeee/SpringBoredomHelperBot.git
+f222866bbd2fc51f5fd5e07e4173097c84c9a968

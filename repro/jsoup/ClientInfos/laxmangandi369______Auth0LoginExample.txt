@@ -1,0 +1,2 @@
+f22b8e0 HEAD@{0}: clone: from https://github.com/laxmangandi369/Auth0LoginExample.git
+f22b8e0167d810d6ef96a23f76c151b02667ceb5

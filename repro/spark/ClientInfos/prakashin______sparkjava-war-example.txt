@@ -1,0 +1,2 @@
+a99d53d HEAD@{0}: clone: from https://github.com/prakashin/sparkjava-war-example.git
+a99d53dbd38edb91c5c4e3af192c7a7c7eac4319

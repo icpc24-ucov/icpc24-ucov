@@ -1,0 +1,2 @@
+9ad8164 HEAD@{0}: clone: from https://github.com/DevOpsSpti/AssetManagement.git
+9ad81640c3023e107ee0bac88ef6a740b6de855d

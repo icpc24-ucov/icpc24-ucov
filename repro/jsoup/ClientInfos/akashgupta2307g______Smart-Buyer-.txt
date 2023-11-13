@@ -1,0 +1,2 @@
+f44bb39 HEAD@{0}: clone: from https://github.com/akashgupta2307g/Smart-Buyer-.git
+f44bb39980f7f61507261f3b0cbcc939d1037843

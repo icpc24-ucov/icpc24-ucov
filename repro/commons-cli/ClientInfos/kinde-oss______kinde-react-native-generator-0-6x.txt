@@ -1,0 +1,2 @@
+a8ade83 HEAD@{0}: clone: from https://github.com/kinde-oss/kinde-react-native-generator-0-6x.git
+a8ade83ace2b2d29c7a9590ae6e382df578ab910

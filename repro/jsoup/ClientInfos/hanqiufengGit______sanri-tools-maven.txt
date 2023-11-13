@@ -1,0 +1,2 @@
+50bff73 HEAD@{0}: clone: from https://github.com/hanqiufengGit/sanri-tools-maven.git
+50bff73978a989d1cc73189bad7eba4cc3a1cdd6

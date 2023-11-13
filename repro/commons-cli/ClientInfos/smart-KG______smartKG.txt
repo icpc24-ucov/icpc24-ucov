@@ -1,0 +1,2 @@
+9c88ce0 HEAD@{0}: clone: from https://github.com/smart-KG/smartKG.git
+9c88ce01547191c0307639ce5d8ea2b283e72a24

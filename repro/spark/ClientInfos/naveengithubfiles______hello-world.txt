@@ -1,0 +1,2 @@
+595a188 HEAD@{0}: clone: from https://github.com/naveengithubfiles/hello-world.git
+595a18871a1912be25d0f6ecddb4c967c8487d7c

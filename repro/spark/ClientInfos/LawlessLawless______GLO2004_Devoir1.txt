@@ -1,0 +1,2 @@
+d5aec7c HEAD@{0}: clone: from https://github.com/LawlessLawless/GLO2004_Devoir1.git
+d5aec7cd9cf4bfc3ffc5bc985fa3fb5760eb9e14

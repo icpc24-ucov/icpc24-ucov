@@ -1,0 +1,2 @@
+10242b0 HEAD@{0}: clone: from https://github.com/juanmora98/AREP-PARCIAL1.git
+10242b0a3a1e7378a2763b4534800dae73900391

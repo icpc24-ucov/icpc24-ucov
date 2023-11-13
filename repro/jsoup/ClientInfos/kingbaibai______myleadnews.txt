@@ -1,0 +1,2 @@
+8b6c3b7 HEAD@{0}: clone: from https://github.com/kingbaibai/myleadnews.git
+8b6c3b77bdb45e4779c2a99b2da54ee9cdc719e8

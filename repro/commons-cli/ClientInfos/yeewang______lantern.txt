@@ -1,0 +1,2 @@
+5fa8a14 HEAD@{0}: clone: from https://github.com/yeewang/lantern.git
+5fa8a14aa81a3475e51072f5afa580b9b2d9da35

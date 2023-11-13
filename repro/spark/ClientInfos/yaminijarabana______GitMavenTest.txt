@@ -1,0 +1,2 @@
+0082542 HEAD@{0}: clone: from https://github.com/yaminijarabana/GitMavenTest.git
+00825426e1d6d22e2ca710b15352376ff2e4e706

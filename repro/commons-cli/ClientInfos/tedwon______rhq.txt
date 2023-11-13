@@ -1,0 +1,2 @@
+d63077f HEAD@{0}: clone: from https://github.com/tedwon/rhq.git
+d63077fab022d2a422177e45f2c890826cd1f5ed

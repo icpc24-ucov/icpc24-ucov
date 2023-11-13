@@ -1,0 +1,2 @@
+c58019a HEAD@{0}: clone: from https://github.com/wujiangchao/open-mq.git
+c58019a76669aa11c178c8e3ac0666dd3f349af4

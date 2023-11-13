@@ -1,0 +1,2 @@
+4fa357ed HEAD@{0}: clone: from https://github.com/ekmixon/nifi.git
+4fa357ed9e9f0d1f61a98910eec2e9e193aebc87

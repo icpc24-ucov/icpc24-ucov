@@ -1,0 +1,2 @@
+06f52db HEAD@{0}: clone: from https://github.com/felippepg/simpleCrawler.git
+06f52db75eff3e6e43c1aac283945af093244564

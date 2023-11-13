@@ -1,0 +1,2 @@
+f747104 HEAD@{0}: clone: from https://github.com/fagnercandido/pocquinha-strategy-factory-supplier.git
+f7471045e92fd476139246af21b0dd3a8fc60f90

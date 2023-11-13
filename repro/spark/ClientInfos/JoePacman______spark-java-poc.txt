@@ -1,0 +1,2 @@
+1d5d47d HEAD@{0}: clone: from https://github.com/JoePacman/spark-java-poc.git
+1d5d47d977e5fa4acf4c4134528d7cbd796e1259

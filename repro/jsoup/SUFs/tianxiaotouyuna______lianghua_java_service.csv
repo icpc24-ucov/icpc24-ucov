@@ -1,0 +1,1 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/tianxiaotouyuna/lianghua_java_service|/renren-common/src/main/java/io/renren/common/xss/xssutils.java(26:16)|/renren-common/src/main/java/io/renren/common/xss/xssutils.java(26:48)|org.jsoup.Jsoup.clean(java.lang.String,org.jsoup.safety.Safelist)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION

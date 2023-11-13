@@ -1,0 +1,2 @@
+fb398e0 HEAD@{0}: clone: from https://github.com/numberly/avro.git
+fb398e0ddbdd67ae50909533f55defe52488e5da

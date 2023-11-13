@@ -1,0 +1,2 @@
+6ed0d7e HEAD@{0}: clone: from https://github.com/gooddata/GoodData-CL.git
+6ed0d7eafda0c125180bf1ec220d9b4f67a59737

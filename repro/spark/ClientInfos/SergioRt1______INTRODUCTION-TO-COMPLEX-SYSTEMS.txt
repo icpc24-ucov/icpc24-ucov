@@ -1,0 +1,2 @@
+cd24b39 HEAD@{0}: clone: from https://github.com/SergioRt1/INTRODUCTION-TO-COMPLEX-SYSTEMS.git
+cd24b3969162c43df7cffa590d3557b8aa9e5472

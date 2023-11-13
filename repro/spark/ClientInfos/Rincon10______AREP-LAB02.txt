@@ -1,0 +1,2 @@
+5bd6685 HEAD@{0}: clone: from https://github.com/Rincon10/AREP-LAB02.git
+5bd668587a671bc55aeda2d1dcb976086945399f

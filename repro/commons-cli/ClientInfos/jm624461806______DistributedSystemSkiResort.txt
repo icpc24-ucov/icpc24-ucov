@@ -1,0 +1,2 @@
+5849e02 HEAD@{0}: clone: from https://github.com/jm624461806/DistributedSystemSkiResort.git
+5849e0295b6e546fe466deb51accf8581894a626

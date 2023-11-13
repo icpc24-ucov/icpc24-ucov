@@ -1,0 +1,2 @@
+2234cb1 HEAD@{0}: clone: from https://github.com/todd-fritz/ldap_in_memory.git
+2234cb1cd67b05602cfa2c38fdabd70b04365efc

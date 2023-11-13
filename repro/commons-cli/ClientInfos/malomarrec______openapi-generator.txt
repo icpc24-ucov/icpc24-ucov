@@ -1,0 +1,2 @@
+b6576d11 HEAD@{0}: clone: from https://github.com/malomarrec/openapi-generator.git
+b6576d11733ecad6fa4a0a616e1a06d502a771b7

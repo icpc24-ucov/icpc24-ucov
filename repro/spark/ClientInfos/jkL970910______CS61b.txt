@@ -1,0 +1,2 @@
+78d5d4e HEAD@{0}: clone: from https://github.com/jkL970910/CS61b.git
+78d5d4e988271507b9fb79763bcc2c71f0960951

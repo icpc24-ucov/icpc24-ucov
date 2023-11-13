@@ -1,0 +1,2 @@
+cb62f18 HEAD@{0}: clone: from https://github.com/maz004/webgoqt2.git
+cb62f184534c3454f30308cc288380ec04d28080

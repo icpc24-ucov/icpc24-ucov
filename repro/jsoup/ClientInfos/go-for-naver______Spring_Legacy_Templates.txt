@@ -1,0 +1,2 @@
+e194fb7 HEAD@{0}: clone: from https://github.com/go-for-naver/Spring_Legacy_Templates.git
+e194fb7bfc70dfe067481acdb4c3bb00e161e99e

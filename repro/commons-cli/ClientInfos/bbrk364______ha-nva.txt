@@ -1,0 +1,2 @@
+de1c8d4 HEAD@{0}: clone: from https://github.com/bbrk364/ha-nva.git
+de1c8d403961c9a47b5dac53d7a591a90dcbf45f

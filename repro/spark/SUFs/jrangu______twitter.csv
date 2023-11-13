@@ -1,0 +1,3 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/jrangu/twitter|/src/main/java/helloworld.java(5:23)|/src/main/java/helloworld.java(5:49)|spark.Route.handle(spark.Request,spark.Response)|SYMBOL_KIND_METHOD|SYMBOL_USE_OVERRIDING
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/jrangu/twitter|/src/main/java/helloworld.java(5:23)|/src/main/java/helloworld.java(5:49)|spark.Route|SYMBOL_KIND_INTERFACE|SYMBOL_USE_IMPLEMENTATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/spark/Clients/jrangu/twitter|/src/main/java/helloworld.java(5:9)|/src/main/java/helloworld.java(5:51)|spark.Spark.get(java.lang.String,spark.Route)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION

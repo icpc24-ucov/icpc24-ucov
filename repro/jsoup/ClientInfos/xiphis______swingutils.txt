@@ -1,0 +1,2 @@
+a5883e2 HEAD@{0}: clone: from https://github.com/xiphis/swingutils.git
+a5883e2fd07efb1e6aa89914303dc6ee3ca3b6a8

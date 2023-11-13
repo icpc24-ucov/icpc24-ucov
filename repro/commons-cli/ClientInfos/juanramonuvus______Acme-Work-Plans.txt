@@ -1,0 +1,2 @@
+52921ed HEAD@{0}: clone: from https://github.com/juanramonuvus/Acme-Work-Plans.git
+52921edcffc9e75b9c93049860e5bf1fa27849bf

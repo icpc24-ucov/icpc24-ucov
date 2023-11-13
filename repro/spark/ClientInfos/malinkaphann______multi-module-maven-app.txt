@@ -1,0 +1,2 @@
+774926f HEAD@{0}: clone: from https://github.com/malinkaphann/multi-module-maven-app.git
+774926fcee6e324936e238978e1eace500e09f45

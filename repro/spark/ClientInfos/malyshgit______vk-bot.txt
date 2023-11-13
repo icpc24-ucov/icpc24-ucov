@@ -1,0 +1,2 @@
+61d97c0 HEAD@{0}: clone: from https://github.com/malyshgit/vk-bot.git
+61d97c044010998d895902d2faba35a5aca9c1d6

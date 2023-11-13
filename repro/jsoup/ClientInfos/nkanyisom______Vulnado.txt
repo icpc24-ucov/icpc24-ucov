@@ -1,0 +1,2 @@
+3c0796c HEAD@{0}: clone: from https://github.com/nkanyisom/Vulnado.git
+3c0796cdbdf014bf480c1e05c7bfe08b1af14291

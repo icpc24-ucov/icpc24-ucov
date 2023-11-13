@@ -1,0 +1,2 @@
+f380d71 HEAD@{0}: clone: from https://github.com/liubangde88/oooo.git
+f380d71643a0409e9ef9cfc09cc1c5c6a64ef396

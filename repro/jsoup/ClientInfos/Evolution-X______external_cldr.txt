@@ -1,0 +1,2 @@
+7380d20 HEAD@{0}: clone: from https://github.com/Evolution-X/external_cldr.git
+7380d20957e95e420d1a967f397919943a06c7af

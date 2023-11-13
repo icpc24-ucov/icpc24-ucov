@@ -1,0 +1,2 @@
+7442249 HEAD@{0}: clone: from https://github.com/glycoinfo/GlycanFormatConverter-cli.git
+74422496b5be43ea2c9522f8af82da5a8a9e1748

@@ -1,0 +1,2 @@
+3274194 HEAD@{0}: clone: from https://github.com/RSHKwee/GnuCashCharts.git
+3274194efac7e7e447888ece7f09ce4859340862

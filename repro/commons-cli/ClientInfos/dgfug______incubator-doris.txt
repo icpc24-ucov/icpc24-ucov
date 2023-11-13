@@ -1,0 +1,2 @@
+760fc02 HEAD@{0}: clone: from https://github.com/dgfug/incubator-doris.git
+760fc02bfe3a0d0a978f1e1a2e3e6489968e51cf

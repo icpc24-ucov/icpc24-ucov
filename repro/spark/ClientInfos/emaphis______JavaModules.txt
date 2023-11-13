@@ -1,0 +1,2 @@
+0a111b7 HEAD@{0}: clone: from https://github.com/emaphis/JavaModules.git
+0a111b7b9f36679afe59193cbe83d537b363abe8

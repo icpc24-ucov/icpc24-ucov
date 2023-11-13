@@ -1,0 +1,2 @@
+f0a8e46 HEAD@{0}: clone: from https://github.com/TI02-Simplinsino/simplinsino.git
+f0a8e463ee14731ca8243c75c9ecf261ae12939e

@@ -1,0 +1,2 @@
+83ddead HEAD@{0}: clone: from https://github.com/Jesperoka/AISTRE-labs.git
+83ddead5a7126d765cfd74836425b55cc385d5ca

@@ -1,0 +1,2 @@
+a3a4749 HEAD@{0}: clone: from https://github.com/END888/yincy-springboot-init.git
+a3a4749758d82d2d98a8140ba025cae8a2f49b2e

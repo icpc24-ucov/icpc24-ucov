@@ -1,0 +1,2 @@
+4e0dff2 HEAD@{0}: clone: from https://github.com/HubSpot/maven-dependency-plugin.git
+4e0dff2ee24e36d6288558e2c3c80db1ce580cc6

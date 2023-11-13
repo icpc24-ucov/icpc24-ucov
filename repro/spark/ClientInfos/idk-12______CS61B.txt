@@ -1,0 +1,2 @@
+6995a07 HEAD@{0}: clone: from https://github.com/idk-12/CS61B.git
+6995a07698cfec47d5a0cf1e146dfd0d27061835

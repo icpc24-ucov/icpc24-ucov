@@ -1,0 +1,2 @@
+47a2e7b HEAD@{0}: clone: from https://github.com/i2shouxihu/webmagic-develop.git
+47a2e7bca566b7443dac1ffc623461efd1caa19d

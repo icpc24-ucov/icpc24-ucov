@@ -1,0 +1,2 @@
+65dd78e HEAD@{0}: clone: from https://github.com/afarago/SLCEE-2023-PC.git
+65dd78ed8338864d3a0571a078064a78c8ccd8fa

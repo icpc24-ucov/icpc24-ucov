@@ -1,0 +1,2 @@
+1d494bd HEAD@{0}: clone: from https://github.com/SeppPenner/openapi-generator.git
+1d494bd1cf67c7d8c9cdd07f348a07a4ba89863c

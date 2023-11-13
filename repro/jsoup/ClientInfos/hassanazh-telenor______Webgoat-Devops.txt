@@ -1,0 +1,2 @@
+6747f4c HEAD@{0}: clone: from https://github.com/hassanazh-telenor/Webgoat-Devops.git
+6747f4cceb61f1e1fe2e6218af6fcc0c3155df3d

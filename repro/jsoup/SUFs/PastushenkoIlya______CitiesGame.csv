@@ -1,0 +1,2 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/PastushenkoIlya/CitiesGame|/src/main/java/com/example/parser/parser.java(12:29)|/src/main/java/com/example/parser/parser.java(12:102)|org.jsoup.Jsoup.connect(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/PastushenkoIlya/CitiesGame|/src/main/java/com/example/parser/parser.java(12:9)|/src/main/java/com/example/parser/parser.java(12:16)|org.jsoup.nodes.Document|SYMBOL_KIND_TYPE|SYMBOL_USE_TYPE_REFERENCE

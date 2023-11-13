@@ -1,0 +1,2 @@
+7aa8e93 HEAD@{0}: clone: from https://github.com/bcs4313/WebCheckers-Project-Archived.git
+7aa8e93483366c4ac996f3713e3598a49a3b790c

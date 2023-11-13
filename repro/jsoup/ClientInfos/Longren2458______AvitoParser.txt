@@ -1,0 +1,2 @@
+29e141c HEAD@{0}: clone: from https://github.com/Longren2458/AvitoParser.git
+29e141c06c3a7cfc6073edcb2738acc594425c7c

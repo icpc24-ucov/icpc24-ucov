@@ -1,0 +1,2 @@
+39261c8 HEAD@{0}: clone: from https://github.com/juanbaezl/tareaDockerAWS.git
+39261c8c1745a9676859bd177d0421b7bdb47818

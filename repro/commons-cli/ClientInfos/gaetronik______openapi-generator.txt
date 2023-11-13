@@ -1,0 +1,2 @@
+76eddeb7 HEAD@{0}: clone: from https://github.com/gaetronik/openapi-generator.git
+76eddeb7133fb5a549a077b907bce92da52278ec

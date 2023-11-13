@@ -1,0 +1,2 @@
+d2857e2 HEAD@{0}: clone: from https://github.com/zazuko/spatial-indexer.git
+d2857e2e0021a4a52ccc2e700ca7820f6b91d8a4

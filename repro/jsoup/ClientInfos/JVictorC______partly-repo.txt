@@ -1,0 +1,2 @@
+4302197 HEAD@{0}: clone: from https://github.com/JVictorC/partly-repo.git
+4302197cb043ad7518b9e860017ab3173852851a

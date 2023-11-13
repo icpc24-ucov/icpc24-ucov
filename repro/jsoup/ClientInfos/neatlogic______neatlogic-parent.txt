@@ -1,0 +1,2 @@
+d3a7aa5 HEAD@{0}: clone: from https://github.com/neatlogic/neatlogic-parent.git
+d3a7aa5df138ccf2fe93dbb6e45b588c9389d1a7

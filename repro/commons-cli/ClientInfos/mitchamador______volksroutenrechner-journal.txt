@@ -1,0 +1,2 @@
+10a783a HEAD@{0}: clone: from https://github.com/mitchamador/volksroutenrechner-journal.git
+10a783af00966620a3b45b2cc04e032d90a1e603

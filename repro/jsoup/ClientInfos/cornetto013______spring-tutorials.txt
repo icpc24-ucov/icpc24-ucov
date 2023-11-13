@@ -1,0 +1,2 @@
+7206e64b HEAD@{0}: clone: from https://github.com/cornetto013/spring-tutorials.git
+7206e64bef9dcf05865f730cacf5921816906758

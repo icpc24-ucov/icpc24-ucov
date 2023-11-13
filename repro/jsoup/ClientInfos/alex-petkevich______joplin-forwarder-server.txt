@@ -1,0 +1,2 @@
+19f18bf HEAD@{0}: clone: from https://github.com/alex-petkevich/joplin-forwarder-server.git
+19f18bf6541c218263927cd71e099c9fe8948d9f

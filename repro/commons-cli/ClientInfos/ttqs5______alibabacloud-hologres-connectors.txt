@@ -1,0 +1,2 @@
+7297256 HEAD@{0}: clone: from https://github.com/ttqs5/alibabacloud-hologres-connectors.git
+7297256a31ba94266fc6df73646bcbcd1d36864c

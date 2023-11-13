@@ -1,0 +1,2 @@
+1932315 HEAD@{0}: clone: from https://github.com/google/infra-structured-map.git
+19323151e820d57d753e69f3505395d466005289

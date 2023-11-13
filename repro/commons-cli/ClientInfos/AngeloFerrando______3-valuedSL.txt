@@ -1,0 +1,2 @@
+cbf6dc3 HEAD@{0}: clone: from https://github.com/AngeloFerrando/3-valuedSL.git
+cbf6dc3469c752de7987425830dae436b1292800

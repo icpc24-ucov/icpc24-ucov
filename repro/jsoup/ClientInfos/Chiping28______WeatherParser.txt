@@ -1,0 +1,2 @@
+60eb998 HEAD@{0}: clone: from https://github.com/Chiping28/WeatherParser.git
+60eb998d8d4e1bfcd447871dff6ccb289cd0b9fe

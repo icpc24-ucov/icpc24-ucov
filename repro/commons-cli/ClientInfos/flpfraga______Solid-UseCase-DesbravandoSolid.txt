@@ -1,0 +1,2 @@
+3562fec HEAD@{0}: clone: from https://github.com/flpfraga/Solid-UseCase-DesbravandoSolid.git
+3562fecc1d79399eecf0000341051c5305419aeb

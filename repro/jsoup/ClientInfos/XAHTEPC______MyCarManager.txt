@@ -1,0 +1,2 @@
+85889a7 HEAD@{0}: clone: from https://github.com/XAHTEPC/MyCarManager.git
+85889a77432650326c15517f3c591f94a1cbf463

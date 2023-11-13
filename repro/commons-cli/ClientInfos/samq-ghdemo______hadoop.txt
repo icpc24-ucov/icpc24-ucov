@@ -1,0 +1,2 @@
+33296dd1 HEAD@{0}: clone: from https://github.com/samq-ghdemo/hadoop.git
+33296dd1a74a5139c26509b3b71a506c7c6ad196

@@ -1,0 +1,2 @@
+fa6b0b8 HEAD@{0}: clone: from https://github.com/Azurexuan/cs61b.git
+fa6b0b8a7f1d83bf1aa47b9182bce4cad238f14e

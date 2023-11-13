@@ -1,0 +1,2 @@
+efbfab2 HEAD@{0}: clone: from https://github.com/skillbox-java/images_downloader.git
+efbfab2b5bda08443f0a1ecca7a3099ae47f1f44

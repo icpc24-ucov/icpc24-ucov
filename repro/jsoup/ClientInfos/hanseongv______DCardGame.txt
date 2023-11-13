@@ -1,0 +1,2 @@
+4ff7f5e HEAD@{0}: clone: from https://github.com/hanseongv/DCardGame.git
+4ff7f5e4f1342b8ef60cccbf67eed6525076bdac

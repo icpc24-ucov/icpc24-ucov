@@ -1,0 +1,2 @@
+74253f4 HEAD@{0}: clone: from https://github.com/Wassermanreaction/MTG_Deck_Manager.git
+74253f4dd0aaa28a2ff9877af5efd1245e51e5ea

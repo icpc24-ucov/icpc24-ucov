@@ -1,0 +1,2 @@
+515a301 HEAD@{0}: clone: from https://github.com/Arielnoder/news.git
+515a301c4006b30b2afc1ecb9daa4582f03c8131

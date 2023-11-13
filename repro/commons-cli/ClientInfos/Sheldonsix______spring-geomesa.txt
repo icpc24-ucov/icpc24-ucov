@@ -1,0 +1,2 @@
+1b418ae HEAD@{0}: clone: from https://github.com/Sheldonsix/spring-geomesa.git
+1b418aefa096e8182b05f653954ab95bd227095f

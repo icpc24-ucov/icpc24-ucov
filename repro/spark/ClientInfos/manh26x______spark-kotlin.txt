@@ -1,0 +1,2 @@
+fe772ed HEAD@{0}: clone: from https://github.com/manh26x/spark-kotlin.git
+fe772edf657c3c479015b49649f857a03618cd6a

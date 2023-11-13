@@ -1,0 +1,2 @@
+839489d HEAD@{0}: clone: from https://github.com/juriel/jdbc-sql-console.git
+839489db85b9d852dadc05f2fad4ac6fd923088a

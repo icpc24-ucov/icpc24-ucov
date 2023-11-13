@@ -1,0 +1,2 @@
+d1cb0e4 HEAD@{0}: clone: from https://github.com/HowardQin/hadoop-2.6.0-cdh5.4.1.git
+d1cb0e4eb07c49e8c75ce314464fac1017be3976

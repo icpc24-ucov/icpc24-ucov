@@ -1,0 +1,2 @@
+a040aec HEAD@{0}: clone: from https://github.com/BielosX/AWS-architect.git
+a040aec9b6545143da65e1693275b0887804a835

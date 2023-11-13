@@ -1,0 +1,2 @@
+7a1ce7b HEAD@{0}: clone: from https://github.com/k-appears/java_backend-xing.git
+7a1ce7b3819a76d75dd1b46327ee11e43ecc828a

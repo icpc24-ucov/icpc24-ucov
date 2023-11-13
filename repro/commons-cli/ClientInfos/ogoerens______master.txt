@@ -1,0 +1,2 @@
+551840a HEAD@{0}: clone: from https://github.com/ogoerens/master.git
+551840a35b958091e0c3530f978ccbc7696cfa6f

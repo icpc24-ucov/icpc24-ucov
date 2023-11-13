@@ -1,0 +1,2 @@
+857e2aa HEAD@{0}: clone: from https://github.com/p506/gapic-generator.git
+857e2aab8017ecbb2abc9adc02d8571c02f94b3b

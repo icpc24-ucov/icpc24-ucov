@@ -1,0 +1,2 @@
+db8044d HEAD@{0}: clone: from https://github.com/roothorp/sdktest.git
+db8044d16614920b1ed30d65d0c9f180570bfadd

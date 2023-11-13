@@ -1,0 +1,2 @@
+49fd88e HEAD@{0}: clone: from https://github.com/Force-oneself/force-rocketmq.git
+49fd88ec55eb62a801b2ccd0df0011f4064043f1

@@ -1,0 +1,2 @@
+c6cbbb8 HEAD@{0}: clone: from https://github.com/Daniel9842/ParcialArep2Corte.git
+c6cbbb8545897005e56be7c3a836742478c1253f

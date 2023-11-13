@@ -1,0 +1,2 @@
+5b666e9 HEAD@{0}: clone: from https://github.com/String10/HadoopTemplate.git
+5b666e973c3d68262e5b15125ee7eb457cf1b9d6

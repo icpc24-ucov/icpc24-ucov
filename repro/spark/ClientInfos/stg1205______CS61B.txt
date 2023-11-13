@@ -1,0 +1,2 @@
+e289db6 HEAD@{0}: clone: from https://github.com/stg1205/CS61B.git
+e289db6385ebe3caccf8b1b23f67df5fdce5c964

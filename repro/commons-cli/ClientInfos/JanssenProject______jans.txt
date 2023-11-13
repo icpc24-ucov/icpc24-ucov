@@ -1,0 +1,2 @@
+39e55e1 HEAD@{0}: clone: from https://github.com/JanssenProject/jans.git
+39e55e10dab7a1b9be5c5b0175dd640cf2cf9920

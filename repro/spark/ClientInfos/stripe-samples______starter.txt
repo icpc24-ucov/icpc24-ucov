@@ -1,0 +1,2 @@
+6a2e8e5 HEAD@{0}: clone: from https://github.com/stripe-samples/starter.git
+6a2e8e51a853c266064e26640ad22b27f3b2d0c1

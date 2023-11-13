@@ -1,0 +1,2 @@
+f39eec7 HEAD@{0}: clone: from https://github.com/MAG1412/maven1.git
+f39eec7f3153bb35e04111f642acfdb5e33afae0

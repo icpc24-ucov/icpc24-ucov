@@ -1,0 +1,2 @@
+5a267f5 HEAD@{0}: clone: from https://github.com/chlustanec/trial.git
+5a267f596513231176791266d9e450d5b9a8f81d

@@ -1,0 +1,2 @@
+06f209b HEAD@{0}: clone: from https://github.com/egorkos/minesweeper-restlient-library.git
+06f209baa26adde8bf00ef1e7be79ecda75a450a

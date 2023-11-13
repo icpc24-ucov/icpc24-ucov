@@ -1,0 +1,2 @@
+aa93f42 HEAD@{0}: clone: from https://github.com/mahmutovichana/Hotel-Reservations-App.git
+aa93f42aac397382146d3b72eca29d15ecf421fa

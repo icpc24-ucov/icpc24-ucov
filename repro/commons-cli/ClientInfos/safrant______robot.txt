@@ -1,0 +1,2 @@
+fd906a0 HEAD@{0}: clone: from https://github.com/safrant/robot.git
+fd906a0281d34317b7f506542074b9b5c7b762a9

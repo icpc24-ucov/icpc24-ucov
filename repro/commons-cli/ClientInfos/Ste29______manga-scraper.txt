@@ -1,0 +1,2 @@
+2a56f4b HEAD@{0}: clone: from https://github.com/Ste29/manga-scraper.git
+2a56f4b4f0be9b1521699e3076501071b6066ef3

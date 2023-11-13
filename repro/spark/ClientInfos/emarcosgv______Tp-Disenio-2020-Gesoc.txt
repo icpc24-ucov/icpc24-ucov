@@ -1,0 +1,2 @@
+e67b034 HEAD@{0}: clone: from https://github.com/emarcosgv/Tp-Disenio-2020-Gesoc.git
+e67b034b15c09f8143996ec7604dfa714a6e1d36

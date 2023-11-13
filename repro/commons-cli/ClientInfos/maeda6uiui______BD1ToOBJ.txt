@@ -1,0 +1,2 @@
+7581466 HEAD@{0}: clone: from https://github.com/maeda6uiui/BD1ToOBJ.git
+75814665a780c5f3dfdaef458a7402469d3d7679

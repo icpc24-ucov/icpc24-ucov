@@ -1,0 +1,2 @@
+3583bbf HEAD@{0}: clone: from https://github.com/mohamednizar/zookeeper.git
+3583bbf0f89861a20c23cb417a1fd93daf12a1e1

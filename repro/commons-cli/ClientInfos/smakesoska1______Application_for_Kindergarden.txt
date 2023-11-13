@@ -1,0 +1,2 @@
+e32d567 HEAD@{0}: clone: from https://github.com/smakesoska1/Application_for_Kindergarden.git
+e32d567691711306385947b46531b5f9ddfad7e8

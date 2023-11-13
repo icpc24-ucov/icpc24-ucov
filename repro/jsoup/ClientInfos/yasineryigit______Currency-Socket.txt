@@ -1,0 +1,2 @@
+d6c920e HEAD@{0}: clone: from https://github.com/yasineryigit/Currency-Socket.git
+d6c920eeb53cedfdaf0bbe22ba95c277e45b5fe9

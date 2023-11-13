@@ -1,0 +1,2 @@
+e8d670b HEAD@{0}: clone: from https://github.com/ahmetkaygisiz/quotes-rest-app.git
+e8d670b05eb5758bbf82e6165365000ac0ed7bf2

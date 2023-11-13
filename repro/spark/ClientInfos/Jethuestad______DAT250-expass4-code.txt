@@ -1,0 +1,2 @@
+557955d HEAD@{0}: clone: from https://github.com/Jethuestad/DAT250-expass4-code.git
+557955d7021aebebb572ccb6b8999d834a325259

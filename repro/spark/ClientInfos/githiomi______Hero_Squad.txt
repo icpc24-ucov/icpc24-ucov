@@ -1,0 +1,2 @@
+02ed12b HEAD@{0}: clone: from https://github.com/githiomi/Hero_Squad.git
+02ed12bb5f703f91e25ed05476ecbe46fb7412a3

@@ -1,0 +1,2 @@
+1b5bfeb HEAD@{0}: clone: from https://github.com/danielgraf/javaemvreader.git
+1b5bfeb37a70939d73a6d3d609c8b7bc863f2aef

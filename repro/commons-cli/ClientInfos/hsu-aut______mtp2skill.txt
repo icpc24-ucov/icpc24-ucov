@@ -1,0 +1,2 @@
+08b26cc HEAD@{0}: clone: from https://github.com/hsu-aut/mtp2skill.git
+08b26cc4b8d1e79d26498c7526a6a0fbcd6f46da

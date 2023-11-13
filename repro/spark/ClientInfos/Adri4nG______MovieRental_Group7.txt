@@ -1,0 +1,2 @@
+38a43d1 HEAD@{0}: clone: from https://github.com/Adri4nG/MovieRental_Group7.git
+38a43d1f17aefd9996bbc4530e2d53c41c52f2fc

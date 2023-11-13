@@ -1,0 +1,2 @@
+3239187 HEAD@{0}: clone: from https://github.com/khurshidbek-bakhromjonov/EPAM-training.git
+3239187e9ea1a7e498d506bd00735107d3d8eefe

@@ -1,0 +1,2 @@
+2cffd25 HEAD@{0}: clone: from https://github.com/Demongo2009/PROZ_Communicator.git
+2cffd25d7a2228fa536a0f1d276d54b9001989e6

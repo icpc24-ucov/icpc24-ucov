@@ -1,0 +1,2 @@
+0219b93 HEAD@{0}: clone: from https://github.com/winterhy/stars-project.git
+0219b93d1d1363019268814dafb3e08816cd5e23

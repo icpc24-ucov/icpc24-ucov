@@ -1,0 +1,2 @@
+c9688d7 HEAD@{0}: clone: from https://github.com/AMARJOLLET/Myfirstsoaptest.git
+c9688d701d69fa5aa382073566a4d14f9911c697

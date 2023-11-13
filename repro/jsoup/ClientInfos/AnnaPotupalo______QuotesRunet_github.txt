@@ -1,0 +1,2 @@
+f1ec012 HEAD@{0}: clone: from https://github.com/AnnaPotupalo/QuotesRunet_github.git
+f1ec0125dac76752f4e6be1fb57773d5c762f7e8

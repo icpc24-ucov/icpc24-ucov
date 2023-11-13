@@ -1,0 +1,2 @@
+94abf2d HEAD@{0}: clone: from https://github.com/hata6502/verilog-format.git
+94abf2d0d959200ccc9f96b2cc3a5d490ca67428

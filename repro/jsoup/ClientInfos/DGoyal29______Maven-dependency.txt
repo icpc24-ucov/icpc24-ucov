@@ -1,0 +1,2 @@
+1c1ce6b HEAD@{0}: clone: from https://github.com/DGoyal29/Maven-dependency.git
+1c1ce6b6570b780c58cd2436fccb0d3322e0b9da

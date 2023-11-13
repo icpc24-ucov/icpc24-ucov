@@ -1,0 +1,2 @@
+67b5e67 HEAD@{0}: clone: from https://github.com/SAP-samples/security-research-cruzzer.git
+67b5e6767fa995e1745744b649f5fa2a20aa82d4

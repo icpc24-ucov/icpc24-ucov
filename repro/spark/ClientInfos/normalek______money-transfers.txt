@@ -1,0 +1,2 @@
+812105c HEAD@{0}: clone: from https://github.com/normalek/money-transfers.git
+812105c95e0db4b97bf56d53e79fcb48afc4b91d

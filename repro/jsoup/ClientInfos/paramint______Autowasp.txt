@@ -1,0 +1,2 @@
+07e4469 HEAD@{0}: clone: from https://github.com/paramint/Autowasp.git
+07e446927db90e799b4316ef1ec2edd4ef19c007

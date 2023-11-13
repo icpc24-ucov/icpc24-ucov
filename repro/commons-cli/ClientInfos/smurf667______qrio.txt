@@ -1,0 +1,2 @@
+6c6faea HEAD@{0}: clone: from https://github.com/smurf667/qrio.git
+6c6faeaf2558b99723edc8dee6b5a048efd03fd5

@@ -1,0 +1,2 @@
+40ddf4d HEAD@{0}: clone: from https://github.com/Okellothomas/NewsPortal.git
+40ddf4da62c521a35cbd13efd16b748a5469f13a

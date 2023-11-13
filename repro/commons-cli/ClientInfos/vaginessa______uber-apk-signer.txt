@@ -1,0 +1,2 @@
+69d5739 HEAD@{0}: clone: from https://github.com/vaginessa/uber-apk-signer.git
+69d5739c0cbce2a34e3d22be7220ab6640c6976d

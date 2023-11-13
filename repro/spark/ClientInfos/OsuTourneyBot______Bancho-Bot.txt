@@ -1,0 +1,2 @@
+21c7f8c HEAD@{0}: clone: from https://github.com/OsuTourneyBot/Bancho-Bot.git
+21c7f8c9e272be4f01921267d64c1f92e5192764

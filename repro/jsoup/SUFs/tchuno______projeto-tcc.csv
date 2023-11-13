@@ -1,0 +1,2 @@
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/tchuno/projeto-tcc|/src/main/java/net/gnfe/util/dummyutils.java(449:10)|/src/main/java/net/gnfe/util/dummyutils.java(449:26)|org.jsoup.Jsoup.parse(java.lang.String)|SYMBOL_KIND_METHOD|SYMBOL_USE_STATIC_INVOCATION
+PLACEHOLDER_CLIENT_ID|CLIENT|/data/ucov/repro/jsoup/Clients/tchuno/projeto-tcc|/src/main/java/net/gnfe/util/dummyutils.java(449:10)|/src/main/java/net/gnfe/util/dummyutils.java(449:38)|org.jsoup.nodes.Element.wholeText()|SYMBOL_KIND_METHOD|SYMBOL_USE_INVOCATION

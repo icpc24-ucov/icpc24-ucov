@@ -1,0 +1,2 @@
+a75058b HEAD@{0}: clone: from https://github.com/shannah/jdeploy.git
+a75058ba99ba03b4c22e35767fd89759d52fdd0d

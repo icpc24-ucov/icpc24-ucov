@@ -1,0 +1,2 @@
+5ad99c9 HEAD@{0}: clone: from https://github.com/TimSquire/TechConference.git
+5ad99c9bbbb8def7f46a3de3365bbd46e3438ced

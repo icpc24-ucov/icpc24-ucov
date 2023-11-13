@@ -1,0 +1,2 @@
+0dae16f HEAD@{0}: clone: from https://github.com/JamesAreuming/PosManager.git
+0dae16f2efccfffeee09da16a2cdd5d0d939766a

@@ -1,0 +1,2 @@
+d3dcc80 HEAD@{0}: clone: from https://github.com/rostislavYurievich/java_labs.git
+d3dcc80e5eb96311675b40ceb276de33b48ff864

@@ -1,0 +1,2 @@
+b00af3e HEAD@{0}: clone: from https://github.com/DarioMolinaValdes/hugoyaitor.git
+b00af3e93907bd12e945ed46d50307472b6bbbd2

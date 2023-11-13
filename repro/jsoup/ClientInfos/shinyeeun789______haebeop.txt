@@ -1,0 +1,2 @@
+181ffc5 HEAD@{0}: clone: from https://github.com/shinyeeun789/haebeop.git
+181ffc5575db40f0cd0dfa42e5dc818997b1fe8a

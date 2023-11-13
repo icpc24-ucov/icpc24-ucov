@@ -1,0 +1,2 @@
+ca25ec9 HEAD@{0}: clone: from https://github.com/sergey-zabolotnyi/javaPro.git
+ca25ec93975a27ce6f5c69218b4d6ef82768e653

@@ -1,0 +1,2 @@
+8569023 HEAD@{0}: clone: from https://github.com/jjk1492/WebCheckers.git
+856902361d68cc7b5c43ceedc16d9e503956bc03

@@ -1,0 +1,2 @@
+bd9c534 HEAD@{0}: clone: from https://github.com/Ezdies/Quote_Generator.git
+bd9c53467ec1516834357dc22d3b2baa272127f8

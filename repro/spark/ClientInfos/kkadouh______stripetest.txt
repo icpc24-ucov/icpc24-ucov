@@ -1,0 +1,2 @@
+2968189 HEAD@{0}: clone: from https://github.com/kkadouh/stripetest.git
+2968189d22de4571fe0451ab3643a0bae8ae42d8

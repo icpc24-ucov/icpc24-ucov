@@ -1,0 +1,2 @@
+572ebd8 HEAD@{0}: clone: from https://github.com/eahau/douyin-openapi.git
+572ebd8c2938b60adaaf54dee9b1ff923317c9ea

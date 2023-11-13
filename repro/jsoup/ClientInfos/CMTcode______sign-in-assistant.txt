@@ -1,0 +1,2 @@
+9c75343 HEAD@{0}: clone: from https://github.com/CMTcode/sign-in-assistant.git
+9c75343d3a24285e5b3d24e79e6afc3b57bb1f17

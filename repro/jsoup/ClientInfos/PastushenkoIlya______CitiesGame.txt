@@ -1,0 +1,2 @@
+051f7ab HEAD@{0}: clone: from https://github.com/PastushenkoIlya/CitiesGame.git
+051f7abf87058e47385001dde99c84f65d97a505

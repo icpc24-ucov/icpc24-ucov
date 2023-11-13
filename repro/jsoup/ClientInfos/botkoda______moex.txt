@@ -1,0 +1,2 @@
+12a3f44 HEAD@{0}: clone: from https://github.com/botkoda/moex.git
+12a3f44cbc5ae604579b76fc668bf989c083e1f3

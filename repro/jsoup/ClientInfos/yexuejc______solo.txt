@@ -1,0 +1,2 @@
+b1e6ba0 HEAD@{0}: clone: from https://github.com/yexuejc/solo.git
+b1e6ba0dccb9d3c19b490beea08a08df5e28ba8d

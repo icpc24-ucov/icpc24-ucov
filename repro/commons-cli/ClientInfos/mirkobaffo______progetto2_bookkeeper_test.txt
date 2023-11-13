@@ -1,0 +1,2 @@
+91dccec HEAD@{0}: clone: from https://github.com/mirkobaffo/progetto2_bookkeeper_test.git
+91dccec78dce7b5e8be9ed880e5636b64fd7bdbb

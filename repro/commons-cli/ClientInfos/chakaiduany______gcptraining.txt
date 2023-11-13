@@ -1,0 +1,2 @@
+e3ced4e HEAD@{0}: clone: from https://github.com/chakaiduany/gcptraining.git
+e3ced4ed7aa0cd4e23fc888c8dabcd46578bee8a

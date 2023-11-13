@@ -1,0 +1,2 @@
+774a0aa HEAD@{0}: clone: from https://github.com/sudeepika/jAlbum.git
+774a0aa844d2b89a0bc0ed4195f46d4324d1cde9

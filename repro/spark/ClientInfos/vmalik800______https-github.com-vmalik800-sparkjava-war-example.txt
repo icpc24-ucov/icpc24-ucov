@@ -1,0 +1,2 @@
+0c38056 HEAD@{0}: clone: from https://github.com/vmalik800/https-github.com-vmalik800-sparkjava-war-example.git
+0c380562ec678c665a0bd61d1db85348de2002fc

@@ -1,0 +1,2 @@
+9752fe9 HEAD@{0}: clone: from https://github.com/BeeInIT/smartstadium.git
+9752fe93f2afb29efa16dec2c1ad51d5ea6258f2

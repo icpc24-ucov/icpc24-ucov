@@ -1,0 +1,2 @@
+6993fac HEAD@{0}: clone: from https://github.com/VladuTzZ-sudo/DB_homework.git
+6993facdc5b76c42e9b4423a0a865390fb9dc051

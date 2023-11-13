@@ -1,0 +1,2 @@
+26243c8 HEAD@{0}: clone: from https://github.com/marendtz/Heritrix3_crawler.git
+26243c801d4b7d4bef5ea390440f65ce3f13d38d

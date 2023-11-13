@@ -1,0 +1,2 @@
+0825f0a HEAD@{0}: clone: from https://github.com/MilanPodunavac/IZ-Projekat.git
+0825f0ad6dfd208e2328c3fe213e81a9e76c5836

@@ -1,0 +1,2 @@
+c7e866c HEAD@{0}: clone: from https://github.com/LionelBK/libreplanSoapui.git
+c7e866c346b9530ae5650d6afefd026b3f40846e

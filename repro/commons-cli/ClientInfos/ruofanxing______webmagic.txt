@@ -1,0 +1,2 @@
+04978f9 HEAD@{0}: clone: from https://github.com/ruofanxing/webmagic.git
+04978f912d23c152ecd0be308f74895f9a1a50a5

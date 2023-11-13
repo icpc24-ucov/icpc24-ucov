@@ -1,0 +1,2 @@
+ef68774 HEAD@{0}: clone: from https://github.com/scalikejdbc/scalikejdbc4j.git
+ef68774349623837651e3be7eaa0c2362966dae9

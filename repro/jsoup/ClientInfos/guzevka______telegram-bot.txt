@@ -1,0 +1,2 @@
+bf20fc5 HEAD@{0}: clone: from https://github.com/guzevka/telegram-bot.git
+bf20fc5bbde5c5bef0f4621d72af625885e427f5

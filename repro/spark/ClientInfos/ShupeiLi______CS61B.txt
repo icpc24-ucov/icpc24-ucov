@@ -1,0 +1,2 @@
+a8af200 HEAD@{0}: clone: from https://github.com/ShupeiLi/CS61B.git
+a8af200b16825cd8b92a1a0f7867412a2d287e29

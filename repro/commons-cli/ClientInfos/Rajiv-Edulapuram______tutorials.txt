@@ -1,0 +1,2 @@
+d8ffc78e HEAD@{0}: clone: from https://github.com/Rajiv-Edulapuram/tutorials.git
+d8ffc78e9793c8313d2aeb5c05806dcfcabbf06a

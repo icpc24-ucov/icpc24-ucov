@@ -1,0 +1,2 @@
+ebc2f32 HEAD@{0}: clone: from https://github.com/mpohler1/amazon-link-checker.git
+ebc2f322cec52b73435248143afaadcdee8d2f1e

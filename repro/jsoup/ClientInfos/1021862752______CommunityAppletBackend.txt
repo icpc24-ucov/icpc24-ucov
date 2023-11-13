@@ -1,0 +1,2 @@
+0395583 HEAD@{0}: clone: from https://github.com/1021862752/CommunityAppletBackend.git
+0395583a47ca7bce2e8c8ae0bea80e86bcb62ecc

@@ -1,0 +1,2 @@
+678ee1b HEAD@{0}: clone: from https://github.com/intoolswetrust/jsignpdf.git
+678ee1ba6ef0206581e86b639cc9d9aac5896a79

@@ -1,0 +1,2 @@
+023180a HEAD@{0}: clone: from https://github.com/antonismaitis/java-spark.git
+023180abf8f87f7a972bdb7c9ac1397e998a236b

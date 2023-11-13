@@ -1,0 +1,2 @@
+a400571 HEAD@{0}: clone: from https://github.com/Maxbleu/AccountManager.git
+a4005719d65b232c8e783e08a152981c75119b5d

@@ -1,0 +1,2 @@
+1492cf7 HEAD@{0}: clone: from https://github.com/VassBass/webparser.git
+1492cf7d6fee502a4ff3408b8631f8cc0fba29a3

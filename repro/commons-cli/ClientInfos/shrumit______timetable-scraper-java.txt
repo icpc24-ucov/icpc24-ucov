@@ -1,0 +1,2 @@
+8bb5d0f HEAD@{0}: clone: from https://github.com/shrumit/timetable-scraper-java.git
+8bb5d0f074c86322f5fb510a234efe3f3734fc21

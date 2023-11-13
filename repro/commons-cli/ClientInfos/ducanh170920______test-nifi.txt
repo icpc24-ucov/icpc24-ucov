@@ -1,0 +1,2 @@
+2542d6cd HEAD@{0}: clone: from https://github.com/ducanh170920/test-nifi.git
+2542d6cd0144e074a19d59c8772d3e4b23917522

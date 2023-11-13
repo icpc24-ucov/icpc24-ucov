@@ -1,0 +1,2 @@
+2c45a23 HEAD@{0}: clone: from https://github.com/Ale1x/rss-scraper.git
+2c45a2363b1dc49c2904edf88c04034e5ffb629d

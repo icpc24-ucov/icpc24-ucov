@@ -1,0 +1,2 @@
+1b3244f HEAD@{0}: clone: from https://github.com/nietus/spark_crud.git
+1b3244fbebd004fc2226747c9af624b249dab3e6

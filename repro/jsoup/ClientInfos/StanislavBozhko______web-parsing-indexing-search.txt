@@ -1,0 +1,2 @@
+57d99ea HEAD@{0}: clone: from https://github.com/StanislavBozhko/web-parsing-indexing-search.git
+57d99ea9bcf78de9742932f1bce323d22b330ee3

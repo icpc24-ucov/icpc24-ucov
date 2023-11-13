@@ -1,0 +1,2 @@
+06f2208 HEAD@{0}: clone: from https://github.com/qitianfeng/rocketmq-new.git
+06f2208a34907211591114f6b0d327168c250fb3

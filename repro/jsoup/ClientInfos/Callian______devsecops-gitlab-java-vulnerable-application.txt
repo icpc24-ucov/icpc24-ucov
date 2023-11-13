@@ -1,0 +1,2 @@
+410c300 HEAD@{0}: clone: from https://github.com/Callian/devsecops-gitlab-java-vulnerable-application.git
+410c300034d6aa8880f6f4533b449c90da5b2af7

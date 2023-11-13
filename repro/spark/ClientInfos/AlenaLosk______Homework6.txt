@@ -1,0 +1,2 @@
+0aa3c51 HEAD@{0}: clone: from https://github.com/AlenaLosk/Homework6.git
+0aa3c51a3020d5919d814b02fe38cf49b778e958

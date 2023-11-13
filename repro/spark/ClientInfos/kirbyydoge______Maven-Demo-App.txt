@@ -1,0 +1,2 @@
+a15920b HEAD@{0}: clone: from https://github.com/kirbyydoge/Maven-Demo-App.git
+a15920beae589bf7d23c5f4d8aec6d46c63986b7

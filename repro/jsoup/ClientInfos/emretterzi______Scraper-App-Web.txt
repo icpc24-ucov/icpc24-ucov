@@ -1,0 +1,2 @@
+9e04afa HEAD@{0}: clone: from https://github.com/emretterzi/Scraper-App-Web.git
+9e04afa4f21230b2739fe06617b0fa43d37edbbc

@@ -1,0 +1,2 @@
+06e022e HEAD@{0}: clone: from https://github.com/yanghuaiGit/hadooplaab.git
+06e022e50fa06d2b69d44bea0284d69ce17bffbe

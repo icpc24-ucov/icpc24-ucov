@@ -1,0 +1,2 @@
+481ef91 HEAD@{0}: clone: from https://github.com/WinkyHu/BearMaps.git
+481ef916ebd69669656ad006914a84f5a6857172

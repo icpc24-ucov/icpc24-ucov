@@ -1,0 +1,2 @@
+cce5f9c HEAD@{0}: clone: from https://github.com/fasten-project/incremental-maven-crawler.git
+cce5f9cf440704093e195ca5fa099ecd014337cb

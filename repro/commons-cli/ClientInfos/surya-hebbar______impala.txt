@@ -1,0 +1,2 @@
+3b3acd5 HEAD@{0}: clone: from https://github.com/surya-hebbar/impala.git
+3b3acd5c08c55258a9f5bc72fff2ac991ef977cd

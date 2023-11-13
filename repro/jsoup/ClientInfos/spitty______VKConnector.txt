@@ -1,0 +1,2 @@
+f6cf7cf HEAD@{0}: clone: from https://github.com/spitty/VKConnector.git
+f6cf7cfee13f0cf3912dad161314fad4ad3b2f69

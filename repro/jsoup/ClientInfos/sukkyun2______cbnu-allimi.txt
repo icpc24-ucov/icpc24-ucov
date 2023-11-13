@@ -1,0 +1,2 @@
+8dcc0ea HEAD@{0}: clone: from https://github.com/sukkyun2/cbnu-allimi.git
+8dcc0ea6fd3f46e0e59d48b10ec107de04fac020

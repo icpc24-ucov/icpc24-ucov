@@ -1,0 +1,2 @@
+19d7eed HEAD@{0}: clone: from https://github.com/victory460/K8S.git
+19d7eed1800ed28403f25d798603fcb8d6efff6c

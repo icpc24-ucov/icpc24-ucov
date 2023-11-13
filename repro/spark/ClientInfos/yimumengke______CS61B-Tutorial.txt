@@ -1,0 +1,2 @@
+ec046cd HEAD@{0}: clone: from https://github.com/yimumengke/CS61B-Tutorial.git
+ec046cde0e4550c9815f1a962d1a4b763315252b

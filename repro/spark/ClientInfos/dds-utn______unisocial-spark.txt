@@ -1,0 +1,2 @@
+1c66d5c HEAD@{0}: clone: from https://github.com/dds-utn/unisocial-spark.git
+1c66d5cd2aed5557b2d5b55726331ed3697e3b44

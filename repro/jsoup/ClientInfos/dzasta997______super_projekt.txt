@@ -1,0 +1,2 @@
+ea65d6c HEAD@{0}: clone: from https://github.com/dzasta997/super_projekt.git
+ea65d6cbbaef1930049cceb9d02b08a047cde6dc

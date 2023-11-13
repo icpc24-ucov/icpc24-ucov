@@ -1,0 +1,2 @@
+e0c44f4 HEAD@{0}: clone: from https://github.com/Okellothomas/hero-squad.git
+e0c44f4fe2753076abfe8cf855c194d3039694ee

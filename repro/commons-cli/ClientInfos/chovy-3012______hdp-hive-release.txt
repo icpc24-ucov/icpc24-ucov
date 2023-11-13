@@ -1,0 +1,2 @@
+6168670 HEAD@{0}: clone: from https://github.com/chovy-3012/hdp-hive-release.git
+616867086eb64936c3db3f385b0d1ca9a2f0b828
